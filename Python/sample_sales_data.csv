@@ -1,0 +1,11 @@
+Date_of_Sale,Product_Name,Category,Quantity,Price_per_Unit_INR,Customer_Feedback_Score
+2024-08-01,Laptop,Electronics,2,60000,6
+2024-08-02,Mouse,Accessories,10,500,3
+2024-08-03,Keyboard,Accessories,5,1500,10
+2024-08-04,Monitor,Electronics,3,12000,7
+2024-08-05,USB Cable,Accessories,15,200,4
+2024-08-06,Headphones,Accessories,4,3000,6
+2024-08-07,Webcam,Electronics,2,2500,9
+2024-08-08,Printer,Electronics,1,15000,2
+2024-08-09,Desk Lamp,Accessories,7,800,6
+2024-08-10,Speaker,Accessories,8,2500,10
